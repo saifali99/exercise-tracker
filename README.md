@@ -1,1 +1,3 @@
-# exercise-tracker
+# Exercise Tracker
+
+Stack: MERN 
